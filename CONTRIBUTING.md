@@ -1,5 +1,3 @@
-# Guidance on how to contribute
-
 Contributions to this code are welcome and appreciated.
 Please adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) at all times.
 

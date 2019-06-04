@@ -13,9 +13,6 @@ console.log(CONFIG.user);
 console.log(CONFIG.passwd);
 
 let dnac = new DNAC({
-//    host: 'https://' + "172.20.56.251",
-//    username: "admin",
-//    password: "Maglev12345"
     host: 'https://' + CONFIG.ip,
     username: CONFIG.user,
     password: CONFIG.passwd
